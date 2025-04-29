@@ -22,7 +22,7 @@ Both models use a **ResNet-50 encoder** pretrained on ImageNet, implemented usin
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/IKT452-BT-Segmentation.git
+git clone https://github.com/knaan-moha/IKT452-BT-Segmentation.git
 cd IKT452-BT-Segmentation
 ```
 

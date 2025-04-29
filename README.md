@@ -42,6 +42,7 @@ pip install -r requirements.txt
 The model training and evaluation are implemented in Jupyter notebooks:
 
 - [`Models/unet-model.ipynb`](Models/unet-model.ipynb) – Train and evaluate U-Net
+- [`Models/deeplabv3.ipynb`](Models/deeplabv3.ipynb) – Train and evaluate DeepLabV3
 
 ---
 

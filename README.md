@@ -53,6 +53,13 @@ The model training and evaluation are implemented in Jupyter notebooks:
 
 ---
 
+---
+## 🗂️ Dataset
+
+The dataset used in this project [Brain Tumor Segmentation dataset](https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation), is available on Kaggle. The dataset contains 3,064 brain MRI images along with their corresponding binary masks for tumor segmentation.
+
+---
+
 ## 📊 Metrics Used
 
 - Accuracy (%)

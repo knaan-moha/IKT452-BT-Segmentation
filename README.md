@@ -51,7 +51,6 @@ The model training and evaluation are implemented in Jupyter notebooks:
 - `U-Net`: Excellent for full tumor region coverage.
 - `DeepLabV3`: Strong performance with cleaner, precise boundaries.
 
----
 
 ---
 ## 🗂️ Dataset
